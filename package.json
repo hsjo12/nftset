@@ -1,0 +1,21 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "This is for CV",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.7",
+    "chai": "^4.3.6",
+    "chai-bn": "^0.3.1",
+    "dotenv": "^16.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daehwan Cho",
+  "license": "ISC"
+}
